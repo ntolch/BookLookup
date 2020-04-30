@@ -1,11 +1,15 @@
 # BookLookup
 
-###You will need to include json .jar file in your classpath. 
+### You will need to include json .jar file in your classpath. 
 
-####To run this program, go to the src folder.
+#### To run this program, go to the src folder.
 
-######Run with:
-  `javac -cp ../lib/json-simple-1.1.jar:../lib/json-20190722.jar:. BookSearch.java`
+###### Run with:
+```java
+javac -cp ../lib/json-simple-1.1.jar:../lib/json-20190722.jar:. BookSearch.java
+```
   
-######Followed by:
-  `java -cp ../lib/json-simple-1.1.jar:../lib/json-20190722.jar:. BookSearch`
+###### Followed by:
+```java
+java -cp ../lib/json-simple-1.1.jar:../lib/json-20190722.jar:. BookSearch
+  ```
